@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: mijan;
+	src: url(../fonts/mijan.ttf);
+}
+@font-face {
+	font-family: rahman;
+	src: url(../fonts/rahman.ttf);
+}
+@font-face {
+	font-family: joy;
+	src: url(../fonts/joy.ttf);
+}
+
+
+#div {
+	height: 300px;
+	text-align: center;
+	background: brown;
+}
+#h1 {
+	font-size: 60px;
+	font-family: rahman;
+	color: #fff;
+}
+#img {
+	text-align: center;
+}
